@@ -268,6 +268,7 @@ public class Details extends AppCompatActivity {
                             break;
 
                         default:
+                            String gaga = "Hello";
                             break;
                     }
                 }
