@@ -183,7 +183,7 @@ class ExpandableListDataPump3 {
         final List<String> Xploits = new ArrayList<String>();
         Xploits.add("POLICE DISTRESS NUMBER");
         Xploits.add("NAPTIP (ANTI TRAFFICKING)");
-        Xploits.add("DOMESTIC VIOLENCE)");
+        Xploits.add("DOMESTIC VIOLENCE");
         Xploits.add("DSVRT");
         Xploits.add("HUMAN RIGHTS ORGANIZATION");
 
