@@ -2749,6 +2749,9 @@ public class Details extends AppCompatActivity {
                     }
 
                 }
+                else    {
+
+                }
 
 
                 return false;
