@@ -2751,7 +2751,6 @@ public class Details extends AppCompatActivity {
                 }
                 else    {
 
-                    
                 }
 
 
