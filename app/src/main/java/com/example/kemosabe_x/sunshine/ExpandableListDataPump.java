@@ -80,7 +80,20 @@ class ExpandableListDataPump1 {
 
         final List<String> Xploits1 = new ArrayList<String>();
         Xploits1.add("FEDERAL FIRE SERVICE");
-        Xploits1.add("LAGOS STATE FIRE SERVICE");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (ALAUSA FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (IKEJA FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (ILUPEJU FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (ISOLO FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (EPE FIRE STATION)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (ONIKAN FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (BADAGRY FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (AGEGE FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (IKORODU FIRE)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (SARI-IGANMU)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (IKOTUN/IGANDO)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (LEKKI PHASE I)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (LEKKI PHASE II)");
+        Xploits1.add("LAGOS STATE FIRE SERVICE (OJO FIRE STATION)");
 
         expandableListDetail.put("ABIA STATE", Xploits);
         expandableListDetail.put("ADAMAWA STATE", Xploits);

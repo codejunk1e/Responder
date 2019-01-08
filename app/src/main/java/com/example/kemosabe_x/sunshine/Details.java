@@ -667,13 +667,13 @@ public class Details extends AppCompatActivity {
 
                 }
                 else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "LAGOS STATE FIRE SERVICE") {
+                        childPosition) == "LAGOS STATE FIRE SERVICE (ALAUSA FIRE)") {
 
                     switch (groupPosition) {
 
                         case 23:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654322"));
+                            intent.setData(Uri.parse("tel:08033235891"));
                             startActivity(intent);
                             break;
 
@@ -683,6 +683,241 @@ public class Details extends AppCompatActivity {
                     }
 
                 }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (IKEJA FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08033219746"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (ILUPEJU FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08032265576"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (ISOLO FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08150901982"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (EPE FIRE STATION)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07057259914"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (ONIKAN FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08186404240"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (BADAGRY FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08033817515"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (AGEGE FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08185704012"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (IKORODU FIRE)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08032220495"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (SARI-IGANMU)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08067026444"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (IKOTUN/IGANDO)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07063393240"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (LEKKI PHASE I)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07011555539"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (LEKKI PHASE II)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07063393241"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
+                else if (expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "LAGOS STATE FIRE SERVICE (OJO FIRE STATION)") {
+
+                    switch (groupPosition) {
+
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07063393242"));
+                            startActivity(intent);
+                            break;
+
+
+                        default:
+                            break;
+                    }
+
+                }
+
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
                         childPosition) == "POLICE DISTRESS NUMBER"){
 
