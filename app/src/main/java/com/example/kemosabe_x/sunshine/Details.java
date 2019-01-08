@@ -919,193 +919,193 @@ public class Details extends AppCompatActivity {
                 }
 
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "POLICE DISTRESS NUMBER"){
+                        childPosition) == "POLICE DISTRESS NUMBER 1"){
 
                     switch(groupPosition) {
 
                         case 0:
 
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08035415408"));
                             startActivity(intent);
 
 
                         case 1:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08089671313"));
                             startActivity(intent);
 
                             break;
                         case 2:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08039213071"));
                             startActivity(intent);
 
                             break;
                         case 3:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07039194332"));
                             startActivity(intent);
 
                             break;
                         case 4:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08151849417"));
                             startActivity(intent);
                             break;
                         case 5:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07034578208"));
                             startActivity(intent);
                             break;
                         case 6:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08066006475"));
                             startActivity(intent);
                             break;
                         case 7:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08068075581"));
                             startActivity(intent);
                             break;
                         case 8:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08133568456"));
                             startActivity(intent);
                             break;
                         case 9:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08036684974"));
                             startActivity(intent);
                             break;
                         case 10:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07064515001"));
                             startActivity(intent);
                             break;
                         case 11:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08037646272"));
                             startActivity(intent);
                             break;
                         case 12:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08062335577"));
                             startActivity(intent);
                             break;
                         case 13:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08032003702"));
                             startActivity(intent);
                             break;
                         case 14:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08150567771"));
                             startActivity(intent);
                             break;
                         case 15:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08034773600"));
                             startActivity(intent);
                             break;
                         case 16:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08075391069"));
                             startActivity(intent);
                             break;
                         case 17:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08123822284"));
                             startActivity(intent);
                             break;
                         case 18:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08032419754"));
                             startActivity(intent);
                             break;
                         case 19:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08075391255"));
                             startActivity(intent);
                             break;
                         case 20:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08038797644"));
                             startActivity(intent);
                             break;
                         case 21:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08075391335"));
                             startActivity(intent);
                             break;
                         case 22:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07032069501"));
                             startActivity(intent);
                             break;
                         case 23:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07055462708"));
                             startActivity(intent);
                             break;
                         case 24:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08123821571"));
                             startActivity(intent);
                             break;
                         case 25:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08081777498"));
                             startActivity(intent);
                             break;
                         case 26:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08032136765"));
                             startActivity(intent);
                             break;
                         case 27:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07034313903"));
                             startActivity(intent);
                             break;
                         case 28:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08075872433"));
                             startActivity(intent);
                             break;
                         case 29:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08081768614"));
                             startActivity(intent);
                             break;
                         case 30:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08126375938"));
                             startActivity(intent);
                             break;
                         case 31:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08032003514"));
                             startActivity(intent);
                             break;
                         case 32:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07068848035"));
                             startActivity(intent);
                             break;
                         case 33:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:08140089863"));
                             startActivity(intent);
                             break;
                         case 34:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:07039301585"));
                             startActivity(intent);
                             break;
                         case 35:
                             intent = new Intent(Intent.ACTION_DIAL);
-                            intent.setData(Uri.parse("tel:0987654321"));
+                            intent.setData(Uri.parse("tel:0810658012"));
                             startActivity(intent);
                             break;
 
@@ -1113,7 +1113,357 @@ public class Details extends AppCompatActivity {
                             break;
                     }
 
+
+
                 }
+                else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "POLICE DISTRESS NUMBER 2"){
+
+                    switch(groupPosition) {
+
+                        case 0:
+
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08079210003"));
+                            startActivity(intent);
+
+                        case 2:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08020913810"));
+                            startActivity(intent);
+
+                            break;
+                        case 3:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08024922772"));
+                            startActivity(intent);
+
+                            break;
+                        case 4:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08127162434"));
+                            startActivity(intent);
+                            break;
+
+                        case 6:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08053039936"));
+                            startActivity(intent);
+                            break;
+                        case 7:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08036071667"));
+                            startActivity(intent);
+                            break;
+                        case 8:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07053355415"));
+                            startActivity(intent);
+                            break;
+
+                        case 10:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08125273721"));
+                            startActivity(intent);
+                            break;
+                        case 11:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08077773721"));
+                            startActivity(intent);
+                            break;
+                        case 12:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07089310359"));
+                            startActivity(intent);
+                            break;
+                        case 13:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075390883"));
+                            startActivity(intent);
+                            break;
+                        case 14:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08151855014"));
+                            startActivity(intent);
+                            break;
+                        case 15:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08037037283"));
+                            startActivity(intent);
+                            break;
+                        case 16:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07089846285"));
+                            startActivity(intent);
+                            break;
+
+                        case 18:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08123821575"));
+                            startActivity(intent);
+                            break;
+                        case 19:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391250"));
+                            startActivity(intent);
+                            break;
+                        case 20:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391307"));
+                            startActivity(intent);
+                            break;
+                        case 21:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07038329084"));
+                            startActivity(intent);
+                            break;
+                        case 22:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08125275046"));
+                            startActivity(intent);
+                            break;
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08035963919"));
+                            startActivity(intent);
+                            break;
+                        case 24:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07075391560"));
+                            startActivity(intent);
+                            break;
+                        case 25:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08127185198"));
+                            startActivity(intent);
+                            break;
+                        case 26:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08081770416"));
+                            startActivity(intent);
+                            break;
+                        case 27:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08081770416"));
+                            startActivity(intent);
+                            break;
+                        case 28:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08039537995"));
+                            startActivity(intent);
+                            break;
+                        case 29:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08150777888"));
+                            startActivity(intent);
+                            break;
+                        case 30:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391844"));
+                            startActivity(intent);
+                            break;
+                        case 31:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08073777717"));
+                            startActivity(intent);
+                            break;
+                        case 32:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391943"));
+                            startActivity(intent);
+                            break;
+                        case 33:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08073260267"));
+                            startActivity(intent);
+                            break;
+                        case 34:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08035067570"));
+                            startActivity(intent);
+                            break;
+
+                        default:
+                            break;
+                    }
+
+
+                }
+                // continue Here
+                else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
+                        childPosition) == "POLICE DISTRESS NUMBER 2"){
+
+                    switch(groupPosition) {
+
+                        case 0:
+
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08079210003"));
+                            startActivity(intent);
+
+                        case 2:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08020913810"));
+                            startActivity(intent);
+
+                            break;
+                        case 3:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08024922772"));
+                            startActivity(intent);
+
+                            break;
+                        case 4:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08127162434"));
+                            startActivity(intent);
+                            break;
+
+                        case 6:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08053039936"));
+                            startActivity(intent);
+                            break;
+                        case 7:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08036071667"));
+                            startActivity(intent);
+                            break;
+                        case 8:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07053355415"));
+                            startActivity(intent);
+                            break;
+
+                        case 10:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08125273721"));
+                            startActivity(intent);
+                            break;
+                        case 11:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08077773721"));
+                            startActivity(intent);
+                            break;
+                        case 12:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07089310359"));
+                            startActivity(intent);
+                            break;
+                        case 13:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075390883"));
+                            startActivity(intent);
+                            break;
+                        case 14:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08151855014"));
+                            startActivity(intent);
+                            break;
+                        case 15:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08037037283"));
+                            startActivity(intent);
+                            break;
+                        case 16:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07089846285"));
+                            startActivity(intent);
+                            break;
+
+                        case 18:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08123821575"));
+                            startActivity(intent);
+                            break;
+                        case 19:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391250"));
+                            startActivity(intent);
+                            break;
+                        case 20:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391307"));
+                            startActivity(intent);
+                            break;
+                        case 21:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07038329084"));
+                            startActivity(intent);
+                            break;
+                        case 22:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08125275046"));
+                            startActivity(intent);
+                            break;
+                        case 23:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08035963919"));
+                            startActivity(intent);
+                            break;
+                        case 24:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07075391560"));
+                            startActivity(intent);
+                            break;
+                        case 25:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08127185198"));
+                            startActivity(intent);
+                            break;
+                        case 26:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08081770416"));
+                            startActivity(intent);
+                            break;
+                        case 27:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08081770416"));
+                            startActivity(intent);
+                            break;
+                        case 28:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08039537995"));
+                            startActivity(intent);
+                            break;
+                        case 29:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08150777888"));
+                            startActivity(intent);
+                            break;
+                        case 30:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391844"));
+                            startActivity(intent);
+                            break;
+                        case 31:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08073777717"));
+                            startActivity(intent);
+                            break;
+                        case 32:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08075391943"));
+                            startActivity(intent);
+                            break;
+                        case 33:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08073260267"));
+                            startActivity(intent);
+                            break;
+                        case 34:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08035067570"));
+                            startActivity(intent);
+                            break;
+
+                        default:
+                            break;
+                    }
+
+
+                }
+
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
                         childPosition) == "IGPX SQUAD"){
 
