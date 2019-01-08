@@ -20,7 +20,8 @@ public class ExpandableListDataPump {
         final LinkedHashMap<String, List<String>> expandableListDetail = new LinkedHashMap<>();
 
         final List<String> Medical = new ArrayList<String>();
-        Medical.add("FEDERAL ROAD SAFETY CORPS");
+        Medical.add("FEDERAL ROAD SAFETY CORPS (CALL)");
+        Medical.add("FEDERAL ROAD SAFETY CORPS (MESSAGE ONLY)");
 
 
         expandableListDetail.put("ABIA STATE", Medical);
@@ -183,9 +184,8 @@ class ExpandableListDataPump3 {
         final List<String> Xploits = new ArrayList<String>();
         Xploits.add("POLICE DISTRESS NUMBER");
         Xploits.add("NAPTIP (ANTI TRAFFICKING)");
-        Xploits.add("DOMESTIC VIOLENCE");
-        Xploits.add("DSVRT");
-        Xploits.add("HUMAN RIGHTS ORGANIZATION");
+        Xploits.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION (DOMESTIC VIOLENCE)");
+        Xploits.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT)");
 
         expandableListDetail.put("ABIA STATE", Xploits);
         expandableListDetail.put("ADAMAWA STATE", Xploits);
