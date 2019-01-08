@@ -929,15 +929,6 @@ public class Details extends AppCompatActivity {
                             intent.setData(Uri.parse("tel:0987654321"));
                             startActivity(intent);
 
-                            Toast.makeText(
-                                    getApplicationContext(),
-                                    expandableListTitle.get(groupPosition)
-                                            + " -> "
-                                            + expandableListDetail.get(
-                                            expandableListTitle.get(groupPosition)).get(
-                                            childPosition), Toast.LENGTH_SHORT
-                            ).show();
-                            break;
 
                         case 1:
                             intent = new Intent(Intent.ACTION_DIAL);
