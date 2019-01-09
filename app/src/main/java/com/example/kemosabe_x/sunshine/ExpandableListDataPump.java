@@ -222,46 +222,100 @@ class ExpandableListDataPump3 {
 
 
         final List<String> Xploits = new ArrayList<String>();
-        Xploits.add("POLICE DISTRESS NUMBER");
-        Xploits.add("NAPTIP (ANTI TRAFFICKING)");
-        Xploits.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION (DOMESTIC VIOLENCE)");
-        Xploits.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT)");
+        Xploits.add("POLICE DISTRESS NUMBER 1");
+        Xploits.add("NAPTIP (NATIONAL AGENCY FOR PROHIBITION OF TRAFFICKING IN PERSONS)");
+        Xploits.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 1");
+        Xploits.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 2");
+        Xploits.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 3");
+        Xploits.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 1");
+        Xploits.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 2");
+        Xploits.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 3");
 
-        expandableListDetail.put("ABIA STATE", Xploits);
+        final List<String> Xploits1 = new ArrayList<String>();
+        Xploits1.add("POLICE DISTRESS NUMBER 1");
+        Xploits1.add("POLICE DISTRESS NUMBER 2");
+        Xploits1.add("NAPTIP (NATIONAL AGENCY FOR PROHIBITION OF TRAFFICKING IN PERSONS)");
+        Xploits1.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 1");
+        Xploits1.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 2");
+        Xploits1.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 3");
+        Xploits1.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 1");
+        Xploits1.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 2");
+        Xploits1.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 3");
+
+        final List<String> Xploits2 = new ArrayList<String>();
+        Xploits2.add("POLICE DISTRESS NUMBER 1");
+        Xploits2.add("POLICE DISTRESS NUMBER 2");
+        Xploits2.add("POLICE DISTRESS NUMBER 3");
+        Xploits2.add("NAPTIP (NATIONAL AGENCY FOR PROHIBITION OF TRAFFICKING IN PERSONS)");
+        Xploits2.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 1");
+        Xploits2.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 2");
+        Xploits2.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 3");
+        Xploits2.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 1");
+        Xploits2.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 2");
+        Xploits2.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 3");
+
+        final List<String> Xploits3 = new ArrayList<String>();
+        Xploits3.add("POLICE DISTRESS NUMBER 1");
+        Xploits3.add("POLICE DISTRESS NUMBER 2");
+        Xploits3.add("POLICE DISTRESS NUMBER 3");
+        Xploits3.add("POLICE DISTRESS NUMBER 4");
+        Xploits3.add("NAPTIP (NATIONAL AGENCY FOR PROHIBITION OF TRAFFICKING IN PERSONS)");
+        Xploits3.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 1");
+        Xploits3.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 2");
+        Xploits3.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 3");
+        Xploits3.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 1");
+        Xploits3.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 2");
+        Xploits3.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 3");
+
+        final List<String> Xploits_Lagos = new ArrayList<String>();
+        Xploits_Lagos.add("POLICE DISTRESS NUMBER 1");
+        Xploits_Lagos.add("POLICE DISTRESS NUMBER 2");
+        Xploits_Lagos.add("NAPTIP (NATIONAL AGENCY FOR PROHIBITION OF TRAFFICKING IN PERSONS)");
+        Xploits_Lagos.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 1");
+        Xploits_Lagos.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 2");
+        Xploits_Lagos.add("WOMEN’S RIGHTS ADVANCEMENT AND PROTECTION ALTERNATIVE (WRAPA) (DOMESTIC VIOLENCE) 3");
+        Xploits_Lagos.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 1");
+        Xploits_Lagos.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 2");
+        Xploits_Lagos.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM (DSVRT) 3");
+        Xploits_Lagos.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM LAGOS 1");
+        Xploits_Lagos.add("DOMESTIC AND SEXUAL VIOLENCE RESPONSE TEAM LAGOS 2");
+
+
+        expandableListDetail.put("ABIA STATE", Xploits3);
         expandableListDetail.put("ADAMAWA STATE", Xploits);
-        expandableListDetail.put("Akwa Ibom STATE", Xploits);
-        expandableListDetail.put("Anambra STATE", Xploits);
-        expandableListDetail.put("Bauchi STATE", Xploits);
+        expandableListDetail.put("Akwa Ibom STATE", Xploits1);
+        expandableListDetail.put("Anambra STATE", Xploits3);
+        expandableListDetail.put("Bauchi STATE", Xploits3);
         expandableListDetail.put("Bayelsa STATE", Xploits);
-        expandableListDetail.put("Benue STATE", Xploits);
-        expandableListDetail.put("Borno STATE", Xploits);
-        expandableListDetail.put("Cross Rivers STATE", Xploits);
+        expandableListDetail.put("Benue STATE", Xploits2);
+        expandableListDetail.put("Borno STATE", Xploits2);
+        expandableListDetail.put("Cross Rivers STATE", Xploits1);
         expandableListDetail.put("Delta STATE", Xploits);
-        expandableListDetail.put("Ebonyi STATE", Xploits);
-        expandableListDetail.put("Edo STATE", Xploits);
-        expandableListDetail.put("Ekiti STATE", Xploits);
-        expandableListDetail.put("Enugu STATE", Xploits);
-        expandableListDetail.put("Gombe STATE", Xploits);
-        expandableListDetail.put("Imo STATE", Xploits);
-        expandableListDetail.put("Jigawa STATE", Xploits);
+        expandableListDetail.put("Ebonyi STATE", Xploits2);
+        expandableListDetail.put("Edo STATE", Xploits2);
+        expandableListDetail.put("Ekiti STATE", Xploits1);
+        expandableListDetail.put("Enugu STATE", Xploits2);
+        expandableListDetail.put("Gombe STATE", Xploits1);
+        expandableListDetail.put("Imo STATE", Xploits1);
+        expandableListDetail.put("Jigawa STATE", Xploits2);
         expandableListDetail.put("Kaduna STATE", Xploits);
         expandableListDetail.put("Kano STATE", Xploits);
-        expandableListDetail.put("Katsina STATE", Xploits);
-        expandableListDetail.put("Kebbi STATE", Xploits);
-        expandableListDetail.put("Kogi STATE", Xploits);
-        expandableListDetail.put("Kwara STATE", Xploits);
-        expandableListDetail.put("Lagos STATE", Xploits);
-        expandableListDetail.put("Nasarawa STATE", Xploits);
-        expandableListDetail.put("Niger STATE", Xploits);
-        expandableListDetail.put("Ogun STATE", Xploits);
-        expandableListDetail.put("Ondo STATE", Xploits);
-        expandableListDetail.put("Osun STATE", Xploits);
-        expandableListDetail.put("Oyo STATE", Xploits);
-        expandableListDetail.put("Plateau STATE", Xploits);
-        expandableListDetail.put("Rivers STATE", Xploits);
-        expandableListDetail.put("Sokoto STATE", Xploits);
-        expandableListDetail.put("Taraba STATE", Xploits);
-        expandableListDetail.put("Yobe STATE", Xploits);
+        expandableListDetail.put("Katsina STATE", Xploits1);
+        expandableListDetail.put("Kebbi STATE", Xploits1);
+        expandableListDetail.put("Kogi STATE", Xploits1);
+        expandableListDetail.put("Kwara STATE", Xploits1);
+        expandableListDetail.put("Lagos STATE", Xploits_Lagos);
+        expandableListDetail.put("Nasarawa STATE", Xploits1);
+        expandableListDetail.put("Niger STATE", Xploits1);
+        expandableListDetail.put("Ogun STATE", Xploits1);
+        expandableListDetail.put("Ondo STATE", Xploits1);
+        expandableListDetail.put("Osun STATE", Xploits2);
+        expandableListDetail.put("Oyo STATE", Xploits1);
+        expandableListDetail.put("Plateau STATE", Xploits2);
+        expandableListDetail.put("Rivers STATE", Xploits1);
+        expandableListDetail.put("Sokoto STATE", Xploits1);
+        expandableListDetail.put("Taraba STATE", Xploits1);
+        expandableListDetail.put("Yobe STATE", Xploits1);
         expandableListDetail.put("Zamfara TEAMS", Xploits);
 
         return expandableListDetail;
@@ -277,8 +331,15 @@ class ExpandableListDataPump4 {
 
 
         final List<String> Xploits = new ArrayList<String>();
-        Xploits.add("ICPC");
-        Xploits.add("EFCC (Anti-Corruption)");
+        Xploits.add("ICPC (ANTI-CORRUPTION) I");
+        Xploits.add("ICPC (ANTI-CORRUPTION) II");
+        Xploits.add("ICPC (ANTI-CORRUPTION) III");
+        Xploits.add("ICPC (ANTI-CORRUPTION) IV");
+        Xploits.add("ICPC (ANTI-CORRUPTION) V");
+        Xploits.add("EFCC (ANTI-CORRUPTION) I");
+        Xploits.add("EFCC (ANTI-CORRUPTION) II");
+        Xploits.add("EFCC (ANTI-CORRUPTION) III");
+        Xploits.add("EFCC (ANTI-CORRUPTION) IV");
 
 
         expandableListDetail.put("ABIA STATE", Xploits);
