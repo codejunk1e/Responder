@@ -2631,63 +2631,63 @@ public class Details extends AppCompatActivity {
                 }
 
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "ICPC (ANTI-CORRUPTION) I"){
+                        childPosition) == "INDEPENDENT CORRUPT PRACTICES COMMISSION ICPC (ANTI-CORRUPTION) I"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08022554272"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "ICPC (ANTI-CORRUPTION) II"){
+                        childPosition) == "INDEPENDENT CORRUPT PRACTICES COMMISSION ICPC (ANTI-CORRUPTION) II"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08031230280"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "ICPC (ANTI-CORRUPTION) III"){
+                        childPosition) == "INDEPENDENT CORRUPT PRACTICES COMMISSION ICPC (ANTI-CORRUPTION) III"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08031230281"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "ICPC (ANTI-CORRUPTION) IV"){
+                        childPosition) == "INDEPENDENT CORRUPT PRACTICES COMMISSION ICPC (ANTI-CORRUPTION) IV"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:07056990190"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "ICPC (ANTI-CORRUPTION) V"){
+                        childPosition) == "INDEPENDENT CORRUPT PRACTICES COMMISSION ICPC (ANTI-CORRUPTION) V"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:07056990191"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "EFCC (ANTI-CORRUPTION) I"){
+                        childPosition) == "ECONOMIC AND FINANCIAL CRIMES COMMISSION EFCC (ANTI-CORRUPTION) I"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08099044751"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "EFCC (ANTI-CORRUPTION) II"){
+                        childPosition) == "ECONOMIC AND FINANCIAL CRIMES COMMISSION EFCC (ANTI-CORRUPTION) II"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08099044752"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "EFCC (ANTI-CORRUPTION) III"){
+                        childPosition) == "ECONOMIC AND FINANCIAL CRIMES COMMISSION EFCC (ANTI-CORRUPTION) III"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08099044753"));
                     startActivity(intent);
 
                 }
                 else if(expandableListDetail.get(expandableListTitle.get(groupPosition)).get(
-                        childPosition) == "EFCC (ANTI-CORRUPTION) IV"){
+                        childPosition) == "ECONOMIC AND FINANCIAL CRIMES COMMISSION EFCC (ANTI-CORRUPTION) IV"){
                     intent = new Intent(Intent.ACTION_DIAL);
                     intent.setData(Uri.parse("tel:08093322644"));
                     startActivity(intent);
