@@ -144,25 +144,33 @@ class ExpandableListDataPump2 {
 
         final List<String> Xploits = new ArrayList<String>();
         Xploits.add("POLICE DISTRESS NUMBER 1");
-        Xploits.add("IGPX SQUAD");
+        Xploits.add("IGPX SQUAD 1");
+        Xploits.add("IGPX SQUAD 2");
+
+
 
         final List<String> Xploits1 = new ArrayList<String>();
         Xploits1.add("POLICE DISTRESS NUMBER 1");
         Xploits1.add("POLICE DISTRESS NUMBER 2");
-        Xploits1.add("IGPX SQUAD");
+        Xploits1.add("IGPX SQUAD 1");
+        Xploits1.add("IGPX SQUAD 2");
+
 
         final List<String> Xploits2 = new ArrayList<String>();
         Xploits2.add("POLICE DISTRESS NUMBER 1");
         Xploits2.add("POLICE DISTRESS NUMBER 2");
         Xploits2.add("POLICE DISTRESS NUMBER 3");
-        Xploits2.add("IGPX SQUAD");
+        Xploits2.add("IGPX SQUAD 1");
+        Xploits2.add("IGPX SQUAD 2");
 
         final List<String> Xploits3 = new ArrayList<String>();
         Xploits3.add("POLICE DISTRESS NUMBER 1");
         Xploits3.add("POLICE DISTRESS NUMBER 2");
         Xploits3.add("POLICE DISTRESS NUMBER 3");
         Xploits3.add("POLICE DISTRESS NUMBER 4");
-        Xploits3.add("IGPX SQUAD");
+        Xploits3.add("IGPX SQUAD 1");
+        Xploits3.add("IGPX SQUAD 2");
+
 
 
         expandableListDetail.put("ABIA STATE", Xploits3);
