@@ -391,44 +391,67 @@ class ExpandableListDataPump5 {
 
 
         final List<String> Xploits = new ArrayList<String>();
-        Xploits.add("CONSUMER PROTECTION COUNCIL (CPC)");
+        Xploits.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH CENTRAL");
 
-        expandableListDetail.put("ABIA STATE", Xploits);
-        expandableListDetail.put("ADAMAWA STATE", Xploits);
-        expandableListDetail.put("Akwa Ibom STATE", Xploits);
-        expandableListDetail.put("Anambra STATE", Xploits);
-        expandableListDetail.put("Bauchi STATE", Xploits);
-        expandableListDetail.put("Bayelsa STATE", Xploits);
+        final List<String> Xploits1 = new ArrayList<String>();
+        Xploits1.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH EAST");
+
+        final List<String> Xploits2 = new ArrayList<String>();
+        Xploits2.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH WEST");
+
+        final List<String> Xploits3 = new ArrayList<String>();
+        Xploits3.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH EAST");
+
+        final List<String> Xploits4 = new ArrayList<String>();
+        Xploits4.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH SOUTH");
+
+        final List<String> Xploits5 = new ArrayList<String>();
+        Xploits5.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH WEST");
+
+        final List<String> Xploits6 = new ArrayList<String>();
+        Xploits6.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH WEST");
+        Xploits6.add("CONSUMER PROTECTION COUNCIL (CPC) LAGOS STATE");
+
+        final List<String> Xploits7 = new ArrayList<String>();
+        Xploits7.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH WEST");
+        Xploits7.add("CONSUMER PROTECTION COUNCIL (CPC) KANO STATE");
+
+        expandableListDetail.put("ABIA STATE", Xploits3);
+        expandableListDetail.put("ADAMAWA STATE", Xploits1);
+        expandableListDetail.put("Akwa Ibom STATE", Xploits4);
+        expandableListDetail.put("Anambra STATE", Xploits3);
+        expandableListDetail.put("Bauchi STATE", Xploits1);
+        expandableListDetail.put("Bayelsa STATE", Xploits4);
         expandableListDetail.put("Benue STATE", Xploits);
-        expandableListDetail.put("Borno STATE", Xploits);
-        expandableListDetail.put("Cross Rivers STATE", Xploits);
-        expandableListDetail.put("Delta STATE", Xploits);
-        expandableListDetail.put("Ebonyi STATE", Xploits);
-        expandableListDetail.put("Edo STATE", Xploits);
-        expandableListDetail.put("Ekiti STATE", Xploits);
-        expandableListDetail.put("Enugu STATE", Xploits);
-        expandableListDetail.put("Gombe STATE", Xploits);
-        expandableListDetail.put("Imo STATE", Xploits);
-        expandableListDetail.put("Jigawa STATE", Xploits);
-        expandableListDetail.put("Kaduna STATE", Xploits);
-        expandableListDetail.put("Kano STATE", Xploits);
-        expandableListDetail.put("Katsina STATE", Xploits);
-        expandableListDetail.put("Kebbi STATE", Xploits);
+        expandableListDetail.put("Borno STATE", Xploits1);
+        expandableListDetail.put("Cross Rivers STATE", Xploits4);
+        expandableListDetail.put("Delta STATE", Xploits4);
+        expandableListDetail.put("Ebonyi STATE", Xploits3);
+        expandableListDetail.put("Edo STATE", Xploits4);
+        expandableListDetail.put("Ekiti STATE", Xploits5);
+        expandableListDetail.put("Enugu STATE", Xploits3);
+        expandableListDetail.put("Gombe STATE", Xploits1);
+        expandableListDetail.put("Imo STATE", Xploits3);
+        expandableListDetail.put("Jigawa STATE", Xploits2);
+        expandableListDetail.put("Kaduna STATE", Xploits2);
+        expandableListDetail.put("Kano STATE", Xploits7);
+        expandableListDetail.put("Katsina STATE", Xploits2);
+        expandableListDetail.put("Kebbi STATE", Xploits2);
         expandableListDetail.put("Kogi STATE", Xploits);
         expandableListDetail.put("Kwara STATE", Xploits);
-        expandableListDetail.put("Lagos STATE", Xploits);
+        expandableListDetail.put("Lagos STATE", Xploits6);
         expandableListDetail.put("Nasarawa STATE", Xploits);
         expandableListDetail.put("Niger STATE", Xploits);
-        expandableListDetail.put("Ogun STATE", Xploits);
-        expandableListDetail.put("Ondo STATE", Xploits);
-        expandableListDetail.put("Osun STATE", Xploits);
-        expandableListDetail.put("Oyo STATE", Xploits);
+        expandableListDetail.put("Ogun STATE", Xploits5);
+        expandableListDetail.put("Ondo STATE", Xploits5);
+        expandableListDetail.put("Osun STATE", Xploits5);
+        expandableListDetail.put("Oyo STATE", Xploits5);
         expandableListDetail.put("Plateau STATE", Xploits);
-        expandableListDetail.put("Rivers STATE", Xploits);
-        expandableListDetail.put("Sokoto STATE", Xploits);
-        expandableListDetail.put("Taraba STATE", Xploits);
-        expandableListDetail.put("Yobe STATE", Xploits);
-        expandableListDetail.put("Zamfara TEAMS", Xploits);
+        expandableListDetail.put("Rivers STATE", Xploits4);
+        expandableListDetail.put("Sokoto STATE", Xploits2);
+        expandableListDetail.put("Taraba STATE", Xploits1);
+        expandableListDetail.put("Yobe STATE", Xploits1);
+        expandableListDetail.put("Zamfara TEAMS", Xploits2);
 
         return expandableListDetail;
     }
