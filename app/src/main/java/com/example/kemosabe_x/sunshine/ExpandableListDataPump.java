@@ -59,7 +59,8 @@ public class ExpandableListDataPump {
         expandableListDetail.put("Sokoto STATE", Medical);
         expandableListDetail.put("Taraba STATE", Medical);
         expandableListDetail.put("Yobe STATE", Medical);
-        expandableListDetail.put("Zamfara TEAMS", Medical);
+        expandableListDetail.put("Zamfara STATE", Medical);
+        expandableListDetail.put("Abuja FCT", Medical);
 
 
         return expandableListDetail;
@@ -130,7 +131,8 @@ class ExpandableListDataPump1 {
         expandableListDetail.put("Sokoto STATE", Xploits);
         expandableListDetail.put("Taraba STATE", Xploits);
         expandableListDetail.put("Yobe STATE", Xploits);
-        expandableListDetail.put("Zamfara TEAMS", Xploits);
+        expandableListDetail.put("Zamfara STATE", Xploits);
+        expandableListDetail.put("Abuja FCT ", Xploits);
 
         return expandableListDetail;
     }
@@ -209,7 +211,7 @@ class ExpandableListDataPump2 {
         expandableListDetail.put("Taraba STATE", Xploits1);
         expandableListDetail.put("Yobe STATE", Xploits1);
         expandableListDetail.put("Zamfara TEAMS", Xploits);
-
+        expandableListDetail.put("Abuja FCT ", Xploits2);
         return expandableListDetail;
     }
 }
@@ -317,6 +319,7 @@ class ExpandableListDataPump3 {
         expandableListDetail.put("Taraba STATE", Xploits1);
         expandableListDetail.put("Yobe STATE", Xploits1);
         expandableListDetail.put("Zamfara TEAMS", Xploits);
+        expandableListDetail.put("Abuja FCT ", Xploits2);
 
         return expandableListDetail;
     }
@@ -378,6 +381,7 @@ class ExpandableListDataPump4 {
         expandableListDetail.put("Taraba STATE", Xploits);
         expandableListDetail.put("Yobe STATE", Xploits);
         expandableListDetail.put("Zamfara TEAMS", Xploits);
+        expandableListDetail.put("Abuja FCT ", Xploits);
 
         return expandableListDetail;
     }
@@ -391,30 +395,30 @@ class ExpandableListDataPump5 {
 
 
         final List<String> Xploits = new ArrayList<String>();
-        Xploits.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH CENTRAL");
+        Xploits.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH CENTRAL ZONE");
 
         final List<String> Xploits1 = new ArrayList<String>();
-        Xploits1.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH EAST");
+        Xploits1.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH EAST ZONE");
 
         final List<String> Xploits2 = new ArrayList<String>();
-        Xploits2.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH WEST");
+        Xploits2.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH WEST ZONE");
 
         final List<String> Xploits3 = new ArrayList<String>();
-        Xploits3.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH EAST");
+        Xploits3.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH EAST ZONE");
 
         final List<String> Xploits4 = new ArrayList<String>();
-        Xploits4.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH SOUTH");
+        Xploits4.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH SOUTH ZONE");
 
         final List<String> Xploits5 = new ArrayList<String>();
-        Xploits5.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH WEST");
+        Xploits5.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH WEST ZONE");
 
         final List<String> Xploits6 = new ArrayList<String>();
-        Xploits6.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH WEST");
-        Xploits6.add("CONSUMER PROTECTION COUNCIL (CPC) LAGOS STATE");
+        Xploits6.add("CONSUMER PROTECTION COUNCIL (CPC) SOUTH WEST ZONE");
+        Xploits6.add("CONSUMER PROTECTION COUNCIL (CPC) LAGOS STATE ZONE");
 
         final List<String> Xploits7 = new ArrayList<String>();
-        Xploits7.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH WEST");
-        Xploits7.add("CONSUMER PROTECTION COUNCIL (CPC) KANO STATE");
+        Xploits7.add("CONSUMER PROTECTION COUNCIL (CPC) NORTH WEST ZONE");
+        Xploits7.add("CONSUMER PROTECTION COUNCIL (CPC) KANO STATE ZONE");
 
         expandableListDetail.put("ABIA STATE", Xploits3);
         expandableListDetail.put("ADAMAWA STATE", Xploits1);
@@ -452,6 +456,7 @@ class ExpandableListDataPump5 {
         expandableListDetail.put("Taraba STATE", Xploits1);
         expandableListDetail.put("Yobe STATE", Xploits1);
         expandableListDetail.put("Zamfara TEAMS", Xploits2);
+        expandableListDetail.put("Abuja FCT ", Xploits);
 
         return expandableListDetail;
     }
@@ -504,6 +509,7 @@ class ExpandableListDataPump6 {
         expandableListDetail.put("Taraba STATE", Xploits);
         expandableListDetail.put("Yobe STATE", Xploits);
         expandableListDetail.put("Zamfara TEAMS", Xploits);
+        expandableListDetail.put("Abuja FCT ", Xploits);
 
         return expandableListDetail;
     }

@@ -78,14 +78,6 @@ public class Details extends AppCompatActivity {
                             intent.setData(Uri.parse("tel:07022553772"));
                             startActivity(intent);
 
-                            Toast.makeText(
-                                getApplicationContext(),
-                                expandableListTitle.get(groupPosition)
-                                        + " -> "
-                                        + expandableListDetail.get(
-                                        expandableListTitle.get(groupPosition)).get(
-                                        childPosition), Toast.LENGTH_SHORT
-                        ).show();
                             break;
 
                         case 1:
@@ -262,6 +254,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
                         case 35:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07022553772"));
+                            startActivity(intent);
+                            break;
+
+                        case 36:
                             intent = new Intent(Intent.ACTION_DIAL);
                             intent.setData(Uri.parse("tel:07022553772"));
                             startActivity(intent);
@@ -464,6 +462,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
 
+                        case 36:
+                            intent = new Intent(Intent.ACTION_SENDTO);
+                            intent.setData(Uri.parse("smsto:08077690362"));
+                            startActivity(intent);
+                            break;
+
                         default:
                             break;
                     }
@@ -656,6 +660,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
                         case 35:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08032003557"));
+                            startActivity(intent);
+                            break;
+
+                        case 36:
                             intent = new Intent(Intent.ACTION_DIAL);
                             intent.setData(Uri.parse("tel:08032003557"));
                             startActivity(intent);
@@ -1109,6 +1119,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
 
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07057337653"));
+                            startActivity(intent);
+                            break;
+
                         default:
                             break;
                     }
@@ -1282,6 +1298,11 @@ public class Details extends AppCompatActivity {
                             intent.setData(Uri.parse("tel:08035067570"));
                             startActivity(intent);
                             break;
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08061581938"));
+                            startActivity(intent);
+                            break;
 
                         default:
                             break;
@@ -1362,6 +1383,12 @@ public class Details extends AppCompatActivity {
                         case 30:
                             intent = new Intent(Intent.ACTION_DIAL);
                             intent.setData(Uri.parse("tel:08038907662"));
+                            startActivity(intent);
+                            break;
+
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08032003913"));
                             startActivity(intent);
                             break;
 
@@ -1598,6 +1625,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
 
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:09026900726"));
+                            startActivity(intent);
+                            break;
+
                         default:
                             break;
                     }
@@ -1790,6 +1823,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
                         case 35:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08078662130"));
+                            startActivity(intent);
+                            break;
+
+                        case 36:
                             intent = new Intent(Intent.ACTION_DIAL);
                             intent.setData(Uri.parse("tel:08078662130"));
                             startActivity(intent);
@@ -1993,6 +2032,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
 
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07030000203"));
+                            startActivity(intent);
+                            break;
+
                         default:
                             break;
                     }
@@ -2185,6 +2230,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
                         case 35:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08188699961"));
+                            startActivity(intent);
+                            break;
+
+                        case 36:
                             intent = new Intent(Intent.ACTION_DIAL);
                             intent.setData(Uri.parse("tel:08188699961"));
                             startActivity(intent);
@@ -2387,6 +2438,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
 
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08172125692"));
+                            startActivity(intent);
+                            break;
+
                         default:
                             break;
                     }
@@ -2579,6 +2636,12 @@ public class Details extends AppCompatActivity {
                             startActivity(intent);
                             break;
                         case 35:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:07063807887"));
+                            startActivity(intent);
+                            break;
+
+                        case 36:
                             intent = new Intent(Intent.ACTION_DIAL);
                             intent.setData(Uri.parse("tel:07063807887"));
                             startActivity(intent);
@@ -2950,6 +3013,13 @@ public class Details extends AppCompatActivity {
                             intent.setData(Uri.parse("tel:08026164604"));
                             startActivity(intent);
                             break;
+
+                        case 36:
+                            intent = new Intent(Intent.ACTION_DIAL);
+                            intent.setData(Uri.parse("tel:08039697287"));
+                            startActivity(intent);
+                            break;
+
 
                         default:
                             break;
